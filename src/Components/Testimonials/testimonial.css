@@ -1,0 +1,28 @@
+@media screen and (min-width: 550px) and (max-width: 740px) {
+
+    #leftArrow,
+    #rightArrow {
+        width: 4.7rem;
+    }
+
+    #back_left_icon,
+    #next_right_icon {
+        padding: 0.8rem;
+    }
+}
+
+@media screen and (min-width: 460px) and (max-width: 550px) {
+    #testimonials-carousel {
+        width: 82%;
+    }
+
+    #leftArrow,
+    #rightArrow {
+        width: 5.5rem;
+    }
+
+    #back_left_icon,
+    #next_right_icon {
+        padding: 0.6rem;
+    }
+}

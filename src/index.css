@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+
+* {
+    font-family: "Outfit", sans-serif;
+}
+
+a {
+    text-decoration: none
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+    --my-gray: #F5F5F5;
+    --my-textGray: #676767;
+    --my-blue: #212EA0;
+    --my-hoverBlue: #141d6e;
+    --my-formBlue: #EBECFE;
+    --my-formHoverBlue: #e2e3fd;
+    --my-formGray: #5e5d5d;
+}
